@@ -1,4 +1,3 @@
-import { LoggingService } from './../logging.service';
 import { SharedModule } from './../shared/shared.module';
 import { FormsModule } from '@angular/forms';
 import { RouterModule, Routes } from '@angular/router';
